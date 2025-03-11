@@ -1,5 +1,9 @@
 body{
     background-color: white;
+    margin:0px;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
 
 }
 #navbar{
@@ -7,4 +11,21 @@ body{
     padding: 0px;
     color: black;
     background-color: lightgrey;
+}
+.linha{
+    background-color: yellow;
+    padding: 20px;
+    margin: 0px;
+
+}
+.barra{
+    background-color: lightgrey;
+    padding: 20px;
+    margin: 0px;
+}
+.section{
+    background-color: lightgrey;
+    padding: 51px;
+    margin: 20px ; 
+
 }
