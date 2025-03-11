@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: #e0d9d9;
     margin:0px;
     padding: 0%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -27,7 +27,7 @@ body{
     margin: 0px;
 }
 .section{
-    background-color: lightgrey;
+    background-color: white;
     padding: 215px;
     margin: 5px ; 
    
@@ -37,9 +37,9 @@ body{
     display: flex;
 }
 .ex{
-    background-color: lightgray;
+    background-color: white;
     padding-right: 1468px;
-    margin: 5px ; 
+    
    
 
 }
