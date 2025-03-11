@@ -8,15 +8,18 @@ body{
 }
 #navbar{
     margin: 0px;
-    padding: 0px;
+    padding: 0px;                                                                                                                                                                                                                                                                                   
     color: black;
     background-color: lightgrey;
 }
 .linha{
-    background-color: yellow;
     padding: 20px;
-    margin: 0px;
-
+    background: repeating-linear-gradient(45deg,
+  #fffb00,
+  #fbff00 10px,
+  #ffee00 10px,
+  #eecc0a 20px
+    );
 }
 .barra{
     background-color: lightgrey;
@@ -25,7 +28,18 @@ body{
 }
 .section{
     background-color: lightgrey;
-    padding: 51px;
-    margin: 20px ; 
+    padding: 215px;
+    margin: 5px ; 
+    padding-bottom: 150px;
+
+}
+.flex{
+    display: flex;
+}
+.ex{
+    background-color: lightgray;
+    padding-right: 1468px;
+    margin: 5px ; 
+   
 
 }
